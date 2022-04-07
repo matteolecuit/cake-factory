@@ -5,6 +5,7 @@ using CakeMachine.Fabrication.Elements;
 using CakeMachine.Fabrication.Opérations;
 using CakeMachine.Utils;
 
+// Produit - rebut
 namespace CakeMachine.Simulation.Algorithmes
 {
     internal class LecuitVaucard : Algorithme
